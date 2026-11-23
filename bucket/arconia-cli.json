@@ -1,11 +1,11 @@
 {
-    "version": "0.19.3",
+    "version": "0.20.0",
     "description": "Enhance the developer experience for Spring Boot",
     "homepage": "https://github.com/arconia-io/arconia-cli",
     "license": "Apache-2.0",
-    "url": "https://github.com/arconia-io/arconia-cli/releases/download/v0.19.3/arconia-cli-0.19.3-windows-amd64.zip",
-    "hash": "sha256:550a2984ce6eccc7e903d2b8c24beb4fc1123065977bb0ac476ca55485a25757",
-    "extract_dir": "arconia-cli-0.19.3-windows-amd64",
+    "url": "https://github.com/arconia-io/arconia-cli/releases/download/v0.20.0/arconia-cli-0.20.0-windows-amd64.zip",
+    "hash": "sha256:eb1d5b89b8ebaddd0b8a15047a2f5afc4ad27a7048eda008b26bec06129490ce",
+    "extract_dir": "arconia-cli-0.20.0-windows-amd64",
     "env_add_path": "bin",
     "checkver": {
         "url": "https://github.com/arconia-io/arconia-cli/releases/latest",
